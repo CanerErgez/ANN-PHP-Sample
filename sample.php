@@ -45,8 +45,8 @@ $zdegeri[$i]=$y6cikis;
 
 // Hata payları bulunuyor
 $e[4]=$y4cikis*($z-$y4cikis)*($z-$y4cikis);
-$e[5]=$y4cikis*($z-$y5cikis)*($z-$y5cikis);
-$e[6]=$y4cikis*($z-$y6cikis)*($z-$y6cikis);
+$e[5]=$y5cikis*($z-$y5cikis)*($z-$y5cikis);
+$e[6]=$y6cikis*($z-$y6cikis)*($z-$y6cikis);
 
 // Hata payı kayıda alınıyor
 $hata_payi[$i]=$e[6];
